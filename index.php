@@ -18,7 +18,7 @@ All rights reserved.
     <body>
         <div class="jumbotron padding-so-it-looks-good">
             <h1 class="display-4 bigger">Website Coming Soon!</h1>
-            <p class="lead big">ActumCoin is an open-source cryptocurrency that uses the <a href="https://en.wikipedia.org/wiki/SHA-3">SHA3-512 algorithm</a>. Check out our <a href="https://github.com/ActumCoin">GitHub</a>!</p>
+            <p class="lead big">Actum is an open-source cryptographically secure blockchain system. ActumCoin is the native cryptocurrency of Actum. Check out our <a href="https://github.com/ActumCoin">GitHub</a>!</p>
             <hr class="my-4">
             <p class="lead big" id="countdown">Website coming in <i>x</i>.</p>
         </div>
