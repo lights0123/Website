@@ -17,6 +17,7 @@ All rights reserved.
     </head>
     <body>
         <div class="jumbotron padding-so-it-looks-good">
+            <img src="logo.png">
             <h1 class="display-4 bigger">Website Coming Soon!</h1>
             <p class="lead big">Actum is an open-source cryptographically secure blockchain system. ActumCoin is the native cryptocurrency of Actum. Check out our <a href="https://github.com/ActumCoin">GitHub</a>!</p>
             <hr class="my-4">
