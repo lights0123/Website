@@ -18,26 +18,26 @@ All rights reserved.
     <body class="bg">
         <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center">
             <img src="logo.png">
-            <h1 class="display-4 bigger">ActumCoin</h1>
-            <p class="lead big">ActumCoin is a decentrilized, peer-to-peer digital cryptocurrency.</p>
+            <h1 class="display-4 bigger">Actum</h1>
+            <p class="lead big">Actum is a decentrilized, peer-to-peer network (or blockchain) which can be used to transfer tokens and cryptocurrencies.</p>
         </div>
         <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center dark">
-            <h1 class="display-4">Use ActumCoin</h1>
+            <h1 class="display-4">Use Actum</h1>
             <div class="container">
                 <div class="row">
                     <div class="col-sm">
                         <!-- material icon description -->
-                        <button class="btn btn-use"><img class="use" src="learn.svg"></button><br>
-                        Learn More About ActumCoin
+                        <a class="btn btn-use" href="#learn"><img src="svg/learn.svg"></a><br>
+                        Learn More About Actum
                     </div>
                     <div class="col-sm">
                         <!-- material icon account balance wallet -->
-                        <button class="btn btn-use"><img src="wallet.svg"></button><br>
+                        <a class="btn btn-use" href="#wallet"><img src="svg/wallet.svg"></a><br>
                         Download An ActumCoin Wallet
                     </div>
                     <div class="col-sm">
                         <!-- material icon local atm -->
-                        <button class="btn btn-use"><img src="buy-coin.svg"></button><br>
+                        <a class="btn btn-use" href="#exchange"><img src="svg/buy-coin.svg"></a><br>
                         Buy/Sell ActumCoin
                     </div>
                 </div>
@@ -45,32 +45,41 @@ All rights reserved.
                 <div class="row">
                     <div class="col-sm">
                         <!-- material icon add shopping cart -->
-                        <button class="btn btn-use">
-                            <svg>
-                                <use xlink:href="use-coin.svg"/>
-                            </svg>
-                        </button>
+                        <a class="btn btn-use" href="#buy"><img src="svg/use-coin.svg"></a>
                         <br>
                         Buy Things With ActumCoin
                     </div>
                     <div class="col-sm">
                         <!-- material icon desktop windows -->
-                        <button class="btn btn-use"><img src="computer.svg"></button><br>
+                        <a class="btn btn-use" href="#mine"><img src="svg/computer.svg"></a><br>
                         Mine ActumCoin
                     </div>
                     <div class="col-sm">
                         <!-- material icon store -->
-                        <button class="btn btn-use"><img src="store.svg"></button><br>
-                        Incorporate ActumCoin Into Your Apps
+                        <a class="btn btn-use" href="#apps"><img src="svg/store.svg"></a><br>
+                        Incorporate Actum Into Your Apps
                     </div>
                 </div>
             </div>
         </div>
+        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center" id="learn">
+            <h1 class="display-4 pad-bottom">Learn More About Actum</h1>
+            <div class="container">
+                <h2 class="display-5 center">What is Actum?</h2>
+                <p class="lead">Actum is a private blockchain system, where you can transfer digital tokens and cryptocurrencies.</p>
+                <h2 class="display-5 center">What is ActumCoin?</h2>
+                <p class="lead">ActumCoin is the native currency of Actum. It is used for most monetary transactions, although there may be more cryptocurrencies on Actum in the future.</p>
+                <h2 class="display-5 center">Why use Actum or ActumCoin?</h2>
+                <p class="lead">The primary reason is that you cannot get cheated or scammed because Actum uses <a href="https://www.coindesk.com/making-sense-smart-contracts/">smart contracts</a>, which automatically conduct transactions. Another reason is that cryptocurrencies are anonymous and secure, which allows for more security.</p>
+            </div>
+        </div>
+        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center dark" id="wallet">
+            <h1 class="display-4 pad-bottom">Get an ActumCoin Wallet</h1>
+            <div class="container">
+               
+            </div>
+        </div>
         <!-- JQuery CDN -->
         <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-        <!-- svg4everybody -->
-        <script src="/path/to/svg4everybody.js"></script>
-        <!-- JavaScript -->
-        <script>svg4everybody(); // run it now or whenever you are ready</script>
     </body>
 </html>
