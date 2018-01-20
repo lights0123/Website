@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<!--
-Copyright (c) 2017 Ryan Shane
-All rights reserved.
--->
 <html lang="en">
     <head>
         <meta charset="UTF-8">
