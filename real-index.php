@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<!--
-Copyright (c) 2017 Ryan Shane
-All rights reserved.
--->
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -76,7 +72,31 @@ All rights reserved.
         <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center dark" id="wallet">
             <h1 class="display-4 pad-bottom">Get an ActumCoin Wallet</h1>
             <div class="container">
-               
+               <div class="row">
+                    <div class="col-sm">
+                        <h2 class="display-5 center">Windows</h2>
+                        <p class="lead">Coming Soon</p>
+                    </div>
+                    <div class="col-sm">
+                        <h2 class="display-5 center">OSX</h2>
+                        <p class="lead">Coming Soon</p>
+                    </div>
+                    <div class="col-sm">
+                        <h2 class="display-5 center">Linux</h2>
+                        <p class="lead">Coming Soon</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md">
+                        <h2 class="display-5 center">iOS</h2>
+                        <p class="lead">Coming Soon</p>
+                    </div>
+                    <div class="col-md">
+                        <h2 class="display-5 center">Android</h2>
+                        <p class="lead">Coming Soon</p>
+                    </div>
+                </div>
+                <p class="lead">Developer? You can make your own ActumCoin wallet, since Actum is open-source. Read more here.</p>
             </div>
         </div>
         <!-- JQuery CDN -->
