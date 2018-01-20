@@ -1,3 +1,7 @@
+/*
+Copyright (c) 2017 Ryan Shane
+All rights reserved.
+*/
 /* 
     Created on : Jan 9, 2018, 8:26:48 PM
     Author     : rshane
@@ -13,4 +17,26 @@
 
 .big {
     font-size: 3em;
+}
+
+.center {
+    margin: auto;
+    width:  auto;
+    text-align: center;
+}
+
+.dark {
+    background-color: #1761a0;
+    color: #fff;
+}
+
+.btn-use {
+    color: #fff;
+    background-color: transparent;
+    border: none;
+    text-align: center;
+}
+
+.pad-bottom {
+    padding-bottom: 0.5%;
 }
