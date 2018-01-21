@@ -129,16 +129,6 @@
                         <p class="lead">Coming Soon</p>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md">
-                        <h2 class="display-5 center">iOS</h2>
-                        <p class="lead">Coming Soon</p>
-                    </div>
-                    <div class="col-md">
-                        <h2 class="display-5 center">Android</h2>
-                        <p class="lead">Coming Soon</p>
-                    </div>
-                </div>
                 <p class="lead">ActumMiner mines transactions of all tokens and currencies on Actum, but payouts are in ActumCoin.</p>
             </div>
         </div>
