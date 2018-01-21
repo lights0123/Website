@@ -15,7 +15,7 @@
         <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center">
             <img src="logo.png">
             <h1 class="display-4 bigger">Actum</h1>
-            <p class="lead big">Actum is a decentrilized, peer-to-peer network (or blockchain) which can be used to transfer tokens and cryptocurrencies.</p>
+            <p class="lead big">Actum is a decentralized, peer-to-peer network (or blockchain) which can be used to transfer tokens and cryptocurrencies.</p>
         </div>
         <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center dark">
             <h1 class="display-4">Use Actum</h1>
