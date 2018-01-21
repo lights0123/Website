@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <title>ActumCoin's Official Website!</title>
+        <title>Actum's Official Website!</title>
         <link rel="shortcut icon" href="logo.ico" />
         <!-- Bootstrap CDN -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
@@ -72,7 +72,7 @@
         <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center dark" id="wallet">
             <h1 class="display-4 pad-bottom">Get an ActumCoin Wallet</h1>
             <div class="container">
-               <div class="row">
+                <div class="row">
                     <div class="col-sm">
                         <h2 class="display-5 center">Windows</h2>
                         <p class="lead">Coming Soon</p>
@@ -99,6 +99,55 @@
                 <p class="lead">Developer? You can make your own ActumCoin wallet, since Actum is open-source. Read more here.</p>
             </div>
         </div>
+        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center" id="exchange">
+            <h1 class="display-4 pad-bottom">Buy/Sell ActumCoin on Official Exchanges</h1>
+            <div class="container">
+                <h2 class="display-5 center">Coming Soon</h2>
+            </div>
+        </div>
+        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center dark" id="buy">
+            <h1 class="display-4 pad-bottom">These Sellers Accept ActumCoin</h1>
+            <div class="container">
+                <h2 class="display-5 center">Coming Soon</h2>
+            </div>
+        </div>
+        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center" id="mine">
+            <h1 class="display-4 pad-bottom">Download ActumMiner</h1>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm">
+                        <h2 class="display-5 center">Windows</h2>
+                        <p class="lead">Coming Soon</p>
+                    </div>
+                    <div class="col-sm">
+                        <h2 class="display-5 center">OSX</h2>
+                        <p class="lead">Coming Soon</p>
+                    </div>
+                    <div class="col-sm">
+                        <h2 class="display-5 center">Linux</h2>
+                        <p class="lead">Coming Soon</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md">
+                        <h2 class="display-5 center">iOS</h2>
+                        <p class="lead">Coming Soon</p>
+                    </div>
+                    <div class="col-md">
+                        <h2 class="display-5 center">Android</h2>
+                        <p class="lead">Coming Soon</p>
+                    </div>
+                </div>
+                <p class="lead">ActumMiner mines transactions of all tokens and currencies on Actum, but payouts are in ActumCoin.</p>
+            </div>
+        </div>
+        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center dark" id="apps">
+            <h1 class="display-4 pad-bottom">Developer Portal</h1>
+            <div class="container">
+                <h2 class="display-5 center">Visit the developer portal to learn more about incorporating Actum and Actum coin.</h2>
+            </div>
+        </div>
+
         <!-- JQuery CDN -->
         <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
     </body>
