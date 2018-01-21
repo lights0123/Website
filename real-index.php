@@ -67,6 +67,7 @@
                 <p class="lead">ActumCoin is the native currency of Actum. It is used for most monetary transactions, although there may be more cryptocurrencies on Actum in the future.</p>
                 <h2 class="display-5 center">Why use Actum or ActumCoin?</h2>
                 <p class="lead">The primary reason is that you cannot get cheated or scammed because Actum uses <a href="https://www.coindesk.com/making-sense-smart-contracts/">smart contracts</a>, which automatically conduct transactions. Another reason is that cryptocurrencies are anonymous and secure, which allows for more security.</p>
+                <p class="lead">Learn more about Actum and ActumCoin <a>here</a>.</p>
             </div>
         </div>
         <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center dark" id="wallet">
@@ -106,7 +107,7 @@
             </div>
         </div>
         <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center dark" id="buy">
-            <h1 class="display-4 pad-bottom">These Sellers Accept ActumCoin</h1>
+            <h1 class="display-4 pad-bottom">Use ActumCoin</h1>
             <div class="container">
                 <h2 class="display-5 center">Coming Soon</h2>
             </div>
