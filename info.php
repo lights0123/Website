@@ -17,8 +17,11 @@ All rights reserved.
     </head>
     <body class="bg">
     <body>
-        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center" id="learn">
+        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good-no-bottom-but-top center">
+            <a href="/"><img src="/logo.png"></a>
             <h1 class="display-4 pad-bottom">Learn More About Actum</h1>
+        </div>
+        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good-no-bottom center">
             <div class="container">
                 <h2 class="display-5 center">What is Actum?</h2>
                 <p class="lead">Actum is a private blockchain system, where you can transfer digital tokens and cryptocurrencies.</p>
@@ -31,7 +34,9 @@ All rights reserved.
                 <h2 class="display-5 center">How does a blockchain work?</h2>
                 <p class="lead">A blockchain is a system that uses many "nodes" that store a record of every transaction. Each of these "nodes" stores a record of every transaction, a decentralized and secure system is possible.</p>
                 <h2 class="display-6 center">See more:</h2>
-                <p class="lead">Read the Actum whitepaper <a href="whitepaper">here</a>.</p>
+                <p class="lead">Read the Actum whitepaper <a href="/whitepaper">here</a>.</p>
+                <p class="lead">See a complete list of all Actum tokens <a href="/tokens">here</a>.</p>
+                <p class="lead">For press inquires email us at <a href="mailto:info@actumcrypto.org">info@actumcrypto.org</a>.</p>
                 
             </div>
         </div>
