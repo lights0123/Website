@@ -1,5 +1,5 @@
 # Website
-Official Website of ActumCoin, live at [actumcrypto.org](actumcrypto.org)
+Official Website of ActumCoin, live at [actumcrypto.org](http://actumcrypto.org)
 
 ## Notes
 #### Found an error?
