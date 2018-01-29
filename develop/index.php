@@ -5,36 +5,36 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
         <title>Actum - Develop an App</title>
-        <link rel="shortcut icon" href="logo.ico" />
+        <link rel="shortcut icon" href="../logo.ico" />
         <!-- Bootstrap CDN -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="../css/main.css">
     </head>
     <body class="bg-img">
         <button class="nav-collapse" onclick="reveal();">
             <!-- material icon menu -->
-            <img src="svg/nav.svg">
+            <img src="../svg/nav.svg">
         </button>
         <ul class="nav hidden nav-nice">
             <li class="nav-item">
-                <a class="nav-link" href="./">Home</a>
+                <a class="nav-link" href="../">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="./faq">FAQ</a>
+                <a class="nav-link" href="../faq">FAQ</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="./downloads">Downloads</a>
+                <a class="nav-link" href="../downloads">Downloads</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="./develop">Develop an Actum App</a>
+                <a class="nav-link active" href="">Develop an Actum App</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="./tokens">List of Actum Tokens</a>
+                <a class="nav-link active" href="../tokens">List of Actum Tokens</a>
             </li>
         </ul>
         <div class="jumbotron jumbotron-fluid pad pad-top">
-            <img src="logo.png">
+            <img src="../logo.png">
             <h1 class="display-4 bigger"><b>Develop an Actum App</b></h1>
         </div>
         <div class="jumbotron jumbotron-fluid pad">
