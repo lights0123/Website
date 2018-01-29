@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <title>ActumCoin's Official Website is coming soon!</title>
+        <title>Actum's Official Website is coming soon!</title>
         <link rel="shortcut icon" href="logo.ico" />
         <!-- Bootstrap CDN -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
@@ -24,7 +24,7 @@
         <!-- JavaScript -->
         <script>
             //countdown end date
-            var countdownDate = new Date("Feb 14 2018 20:00:00").getTime();
+            var countdownDate = new Date("Feb 10 2018 20:00:00").getTime();
 
             var x = setInterval(function () {
                 //today's datetime

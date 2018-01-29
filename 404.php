@@ -14,7 +14,7 @@
     <body class="bg">
         <div class="jumbotron jumbotron-fluid padding-so-it-looks-good-no-bottom-but-top center">
             <a href="http://actumcrypto.org"><img src="http://actumcrypto.org/logo.png"></a>
-            <h1 class="display-4 bigger">404!</h1>
+            <h1 class="display-4 bigger upsidedown">404!</h1>
         </div>
         <div class="jumbotron jumbotron-fluid padding-so-it-looks-good-no-bottom center" id="pay">
             <h1 class="display-4">Looks like we messed up!</h1

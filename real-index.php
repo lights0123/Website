@@ -11,135 +11,65 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="css/main.css">
     </head>
-    <body class="bg">
-        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center">
+    <body class="bg-img">
+        <button class="nav-collapse" onclick="reveal();">
+            <!-- material icon menu -->
+            <img src="svg/nav.svg">
+        </button>
+        <ul class="nav hidden nav-nice">
+            <li class="nav-item">
+                <a class="nav-link active" href="./">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="./faq">FAQ</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="./downloads">Downloads</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="./develop">Develop an Actum App</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="./tokens">List of Actum Tokens</a>
+            </li>
+        </ul>
+        <div class="jumbotron jumbotron-fluid pad pad-top">
             <img src="logo.png">
-            <h1 class="display-4 bigger">Actum</h1>
-            <p class="lead big">Actum is a decentralized, peer-to-peer network (or blockchain) which can be used to transfer tokens and cryptocurrencies.</p>
+            <h1 class="display-4 bigger"><b>Actum</b></h1>
+            <p class="lead wid">Actum is a system of smart contracts. These are programmed to preform transactions, and cannot be interfered with. This means that Actum smart contracts are free from fraud and unexpected changes. With your own Actum token and smart contracts, you can create a rewards program, a cryptocurrency, a market, or anything else you can think of!</p>
+            <p class="lead wid">A blockchain is free from downtime and slow regulatory processes, so Actum tokens transfer are fast and reliable. Actum apps can also use ActumCoin, the native cryptocurrency of Actum as a payment method.</p>
+            <a class="btn btn btn-dark" href="./develop">Create your Actum app!</a>
         </div>
-        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center dark">
-            <h1 class="display-4">Use Actum</h1>
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm">
-                        <!-- material icon description -->
-                        <a class="btn btn-use" href="#learn"><img src="svg/learn.svg"></a><br>
-                        Learn More About Actum
-                    </div>
-                    <div class="col-sm">
-                        <!-- material icon account balance wallet -->
-                        <a class="btn btn-use" href="#wallet"><img src="svg/wallet.svg"></a><br>
-                        Download An ActumCoin Wallet
-                    </div>
-                    <div class="col-sm">
-                        <!-- material icon local atm -->
-                        <a class="btn btn-use" href="#exchange"><img src="svg/buy-coin.svg"></a><br>
-                        Buy/Sell ActumCoin
-                    </div>
-                </div>
-                <br>
-                <div class="row">
-                    <div class="col-sm">
-                        <!-- material icon add shopping cart -->
-                        <a class="btn btn-use" href="#buy"><img src="svg/use-coin.svg"></a>
-                        <br>
-                        Buy Things With ActumCoin
-                    </div>
-                    <div class="col-sm">
-                        <!-- material icon desktop windows -->
-                        <a class="btn btn-use" href="#mine"><img src="svg/computer.svg"></a><br>
-                        Mine ActumCoin
-                    </div>
-                    <div class="col-sm">
-                        <!-- material icon store -->
-                        <a class="btn btn-use" href="#apps"><img src="svg/store.svg"></a><br>
-                        Incorporate Actum Into Your Apps
-                    </div>
-                </div>
-            </div>
+        <div class="jumbotron jumbotron-fluid pad">
+            <h1 class="display-4 wid">ActumCoin</h1>
+            <p class="lead wid">ActumCoin is the native cryptocurrency of Actum. It can be used like USD or EUR to purchase goods and services. It can also be used in a core smart contract type, an <b>atomic exchange,</b> which exchanges a set amount of ActumCoin for other Actum tokens.</p>
+            <button class="btn btn btn-dark">Buy ActumCoin!</button>
+            <a class="btn btn btn-dark" href="./vendors">Use ActumCoin!</a>
         </div>
-        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center" id="learn">
-            <h1 class="display-4 pad-bottom">Learn More About Actum</h1>
-            <div class="container">
-                <h2 class="display-5 center">What is Actum?</h2>
-                <p class="lead">Actum is a private blockchain system, where you can transfer digital tokens and cryptocurrencies.</p>
-                <h2 class="display-5 center">What is ActumCoin?</h2>
-                <p class="lead">ActumCoin is the native currency of Actum. It is used for most monetary transactions, although there may be more cryptocurrencies on Actum in the future.</p>
-                <h2 class="display-5 center">Why use Actum or ActumCoin?</h2>
-                <p class="lead">The primary reason is that you cannot get cheated or scammed because Actum uses <a href="https://www.coindesk.com/making-sense-smart-contracts/">smart contracts</a>, which automatically conduct transactions. Another reason is that cryptocurrencies are anonymous and secure, which allows for more security.</p>
-                <p class="lead">Learn more about Actum and ActumCoin <a href="info">here</a>.</p>
-            </div>
+        <div class="jumbotron jumbotron-fluid pad">
+            <h1 class="display-4 wid">ActumCoinWallet</h1>
+            <p class="lead wid">Actum wallets are a secure way to store ActumCoin and other Actum tokens. The core Actum wallet, ActumCoinWallet, has the ability to store, send and receive ActumCoin and other tokens, but you can make your own custom Actum wallet for your token or business.</p>
+            <a class="btn btn btn-dark" href="./downloads#wallet">Download ActumCoinWallet!</a>
+            <button class="btn btn btn-dark">Create an Actum Wallet!</button>
         </div>
-        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center dark" id="wallet">
-            <h1 class="display-4 pad-bottom">Get an ActumCoin Wallet</h1>
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm">
-                        <h2 class="display-5 center">Windows</h2>
-                        <p class="lead">Coming Soon</p>
-                    </div>
-                    <div class="col-sm">
-                        <h2 class="display-5 center">OSX</h2>
-                        <p class="lead">Coming Soon</p>
-                    </div>
-                    <div class="col-sm">
-                        <h2 class="display-5 center">Linux</h2>
-                        <p class="lead">Coming Soon</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md">
-                        <h2 class="display-5 center">iOS</h2>
-                        <p class="lead">Coming Soon</p>
-                    </div>
-                    <div class="col-md">
-                        <h2 class="display-5 center">Android</h2>
-                        <p class="lead">Coming Soon</p>
-                    </div>
-                </div>
-                <p class="lead">Developer? You can make your own ActumCoin wallet, since Actum is open-source. Read more here.</p>
-            </div>
+        <div class="jumbotron jumbotron-fluid pad">
+            <h1 class="display-4 wid">ActumMiner</h1>
+            <p class="lead wid">Mining is a process of authenticating transactions on a blockchain. In return, a miner is granted small amounts of a cryptocurrency. ActumMiner is the official software for mining the Actum blockchain. Since all Actum tokens are on the same blockchain, they are all mined together however, payouts are in ActumCoin.</p>
+            <p class="lead wid">Since Actum uses a modified version of round-robin mining, all miners are granted a fair chance at minig a block, and earning ActumCoin</p>
+            <a class="btn btn btn-dark" href="./downloads#miner">Download ActumMiner!</a>
         </div>
-        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center" id="exchange">
-            <h1 class="display-4 pad-bottom">Buy/Sell ActumCoin on Official Exchanges</h1>
-            <div class="container">
-                <h2 class="display-5 center">Coming Soon</h2>
-            </div>
-        </div>
-        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center dark" id="buy">
-            <h1 class="display-4 pad-bottom">Use ActumCoin</h1>
-            <div class="container">
-                <h2 class="display-5 center">Coming Soon</h2>
-            </div>
-        </div>
-        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center" id="mine">
-            <h1 class="display-4 pad-bottom">Download ActumMiner</h1>
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm">
-                        <h2 class="display-5 center">Windows</h2>
-                        <p class="lead">Coming Soon</p>
-                    </div>
-                    <div class="col-sm">
-                        <h2 class="display-5 center">OSX</h2>
-                        <p class="lead">Coming Soon</p>
-                    </div>
-                    <div class="col-sm">
-                        <h2 class="display-5 center">Linux</h2>
-                        <p class="lead">Coming Soon</p>
-                    </div>
-                </div>
-                <p class="lead">ActumMiner mines transactions of all tokens and currencies on Actum, but payouts are in ActumCoin.</p>
-            </div>
-        </div>
-        <div class="jumbotron jumbotron-fluid padding-so-it-looks-good center dark" id="apps">
-            <h1 class="display-4 pad-bottom">Developer Portal</h1>
-            <div class="container">
-                <h2 class="display-5 center">Visit the developer portal to learn more about incorporating Actum and Actum coin.</h2>
-            </div>
-        </div>
-
         <!-- JQuery CDN -->
         <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+        <script>
+            var hidden = true;
+            function reveal() {
+                if (hidden) {
+                    $(".hidden").attr("class", "nav reveal nav-nice");
+                } else {
+                    $(".reveal").attr("class", "nav hidden nav-nice");
+                }
+                hidden = !hidden;
+            }
+        </script>
     </body>
 </html>
