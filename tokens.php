@@ -27,10 +27,10 @@
                 <a class="nav-link" href="./downloads">Downloads</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="./develop">Develop an Actum App</a>
+                <a class="nav-link" href="./develop/develop">Develop an Actum App</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="./tokens">List of Actum Tokens</a>
+                <a class="nav-link active" href="">List of Actum Tokens</a>
             </li>
         </ul>
         <div class="jumbotron jumbotron-fluid pad pad-top">
