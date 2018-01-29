@@ -24,7 +24,7 @@
                 <a class="nav-link" href="./faq">FAQ</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="./downloads">Downloads</a>
+                <a class="nav-link active" href="">Downloads</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="./develop">Develop an Actum App</a>
