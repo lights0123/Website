@@ -33,18 +33,18 @@
                 <a class="nav-link active" href="../tokens">List of Actum Tokens</a>
             </li>
         </ul>
-        <div class="jumbotron jumbotron-fluid pad pad-top">
+        <div class="jumbotron jumbotron-fluid pad pad-top wid">
             <img src="../logo.png">
             <h1 class="display-4 bigger"><b>Develop an Actum App</b></h1>
         </div>
-        <div class="jumbotron jumbotron-fluid pad">
-            <h1 class="display-4 wid">Advantages of Actum</h1>
-            <p class="lead wid">Actum is a blockchain, which inherently has many advantages, including reliability, low cost, and speed. Actum also has no transaction fees, allowing you to have completely free usage. Also, since Actum is a blockchain, if one server loses all of it's data, it can be reset by the rest of the blockchain, and no data is lost, improving reliability and reducing downtime.</p>
+        <div class="jumbotron jumbotron-fluid pad wid">
+            <h1 class="display-4">Advantages of Actum</h1>
+            <p class="lead">Actum is a blockchain, which inherently has many advantages, including reliability, low cost, and speed. Actum also has no transaction fees, allowing you to have completely free usage. Also, since Actum is a blockchain, if one server loses all of it's data, it can be reset by the rest of the blockchain, and no data is lost, improving reliability and reducing downtime.</p>
         </div>
-        <div class="jumbotron jumbotron-fluid pad">
-            <h1 class="display-4 wid">Actum Smart Contracts</h1>
-            <p class="lead wid">Smart contracts are a type of program that are programmed to preform transactions, and cannot be interfered with. This means that Actum smart contracts are free from fraud and unexpected changes. With your own Actum token and smart contracts, you can create a rewards program, a cryptocurrency, a market, or anything else you can think of!</p>
-            <p class="lead wid">Smart contracts can be programmed with conditional statements that rely on outside factors to be satisfied. This means that you can create an app that automatically pays workers for completing tasks, reward customers for shopping at your store, pay out prizes for winning a game, or anything else you can think of!</p>
+        <div class="jumbotron jumbotron-fluid pad wid">
+            <h1 class="display-4">Actum Smart Contracts</h1>
+            <p class="lead">Smart contracts are a type of program that are programmed to preform transactions, and cannot be interfered with. This means that Actum smart contracts are free from fraud and unexpected changes. With your own Actum token and smart contracts, you can create a rewards program, a cryptocurrency, a market, or anything else you can think of!</p>
+            <p class="lead">Smart contracts can be programmed with conditional statements that rely on outside factors to be satisfied. This means that you can create an app that automatically pays workers for completing tasks, reward customers for shopping at your store, pay out prizes for winning a game, or anything else you can think of!</p>
             <a class="btn btn btn-dark" href="./create">Create an Actum App!</a>
         </div>
         <!-- JQuery CDN -->
