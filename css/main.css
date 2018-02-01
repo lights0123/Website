@@ -1,14 +1,9 @@
-/*
-Copyright (c) 2017 Ryan Shane
-All rights reserved.
-*/
-/* 
-    Created on : Jan 9, 2018, 8:26:48 PM
-    Author     : rshane
-*/
+.pad {
+    padding: 0 5% 0 5%;
+}
 
-.padding-so-it-looks-good {
-    padding: 5% 5% 5% 5%;
+.pad-top {
+    padding-top: 5%;
 }
 
 .bigger {
@@ -19,10 +14,8 @@ All rights reserved.
     font-size: 3em;
 }
 
-.center {
-    margin: auto;
-    width:  auto;
-    text-align: center;
+.jumbotron {
+    background-color: transparent;
 }
 
 .dark {
@@ -30,13 +23,42 @@ All rights reserved.
     color: #fff;
 }
 
-.btn-use {
-    color: #fff;
-    background-color: transparent;
-    border: none;
-    text-align: center;
-}
-
 .pad-bottom {
     padding-bottom: 0.5%;
+}
+
+.nav-collapse {
+    border: none;
+    float: left;
+    margin-left: 8%;
+    margin-top: 3%;
+    background-color: transparent;
+}
+
+.hidden {
+    opacity: 0;
+    transition: all ease 0.5s;
+}
+
+.reveal {
+    opacity: 1;
+    transition: all ease 0.5s;
+}
+
+.bg-img {
+    background-image: url("../bg-md.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.nav-nice {
+    padding-top: 3%;
+}
+
+.wid {
+    width: 50%;
+}
+
+.steps {
+    margin-left: 1%;
 }
