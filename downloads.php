@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <title>Actum - Downloads</title>
+        <title>ActumCrypto - Downloads</title>
         <link rel="shortcut icon" href="logo.ico" />
         <!-- Bootstrap CDN -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
@@ -33,7 +33,7 @@
                 <a class="nav-link active" href="./tokens">List of Actum Tokens</a>
             </li>
         </ul>
-        <div class="jumbotron jumbotron-fluid pad pad-top">
+        <div class="jumbotron jumbotron-fluid pad pad-top wid">
             <img src="logo.png">
             <h1 class="display-4 bigger"><b>Downloads</b></h1>
         </div>
