@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <title>Actum - idk what rest of title yet</title>
+        <title>ActumCrypto - List of ActumCoin Accepting Vendors</title>
         <link rel="shortcut icon" href="logo.ico" />
         <!-- Bootstrap CDN -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
@@ -33,12 +33,13 @@
                 <a class="nav-link active" href="./tokens">List of Actum Tokens</a>
             </li>
         </ul>
-        <div class="jumbotron jumbotron-fluid pad pad-top">
+        <div class="jumbotron jumbotron-fluid pad pad-top wid">
             <img src="logo.png">
-            <h1 class="display-4 bigger wid"><b>Vendors That Accept ActumCoin</b></h1>
+            <h1 class="display-4 bigger"><b>Vendors That Accept ActumCoin</b></h1>
         </div>
-        <div class="jumbotron jumbotron-fluid pad">
-            <table class="table wid">
+        <div class="jumbotron jumbotron-fluid pad wid">
+            <p class="lead">Apply to get on this list <a href="./apply/vendors">here</a>.</p>
+            <table class="table">
                 <thead class="thead-dark">
                     <tr>
                         <th scope="col">Vendor</th>
@@ -48,9 +49,9 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <th scope="row">rip</th>
-                        <td>oof</td>
-                        <td><a href="http://rip.oof">rip.oof</a></td>
+                        <th scope="row"></th>
+                        <td></td>
+                        <td><a href=""></a></td>
                     </tr>
                 </tbody>
             </table>
