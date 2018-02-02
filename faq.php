@@ -29,9 +29,6 @@
             <li class="nav-item">
                 <a class="nav-link" href="./develop">Develop an Actum App</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link active" href="./tokens">List of Actum Tokens</a>
-            </li>
         </ul>
         <div class="jumbotron jumbotron-fluid pad pad-top wid">
             <img src="logo.png">
@@ -54,7 +51,6 @@
             <p class="lead">A blockchain is a system that uses many "nodes" that store a record of every transaction. Each of these "nodes" stores a record of every transaction, a decentralized and secure system is possible.</p>
             <h2 class="display-6">See more:</h2>
             <p class="lead">Read the Actum whitepaper <a href="./whitepaper">here</a>.</p>
-            <p class="lead">See a complete list of all Actum tokens <a href="./tokens">here</a>.</p>
             <p class="lead">For press inquires email us at <a href="mailto:info@actumcrypto.org">info@actumcrypto.org</a>.</p>
         </div>
         <!-- JQuery CDN -->
