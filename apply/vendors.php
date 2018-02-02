@@ -29,9 +29,6 @@
             <li class="nav-item">
                 <a class="nav-link" href="../develop">Develop an Actum App</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="../tokens">List of Actum Tokens</a>
-            </li>
         </ul>
         <div class="jumbotron jumbotron-fluid pad pad-top wid">
             <img src="../logo.png">
