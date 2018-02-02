@@ -29,14 +29,11 @@
             <li class="nav-item">
                 <a class="nav-link" href="./develop">Develop an Actum App</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link active" href="./tokens">List of Actum Tokens</a>
-            </li>
         </ul>
         <div class="jumbotron jumbotron-fluid pad pad-top wid">
             <img src="logo.png">
             <h1 class="display-4 bigger"><b>ActumCrypto</b></h1>
-            <p class="lead">ActumCrypto is a bockchain and system of smart contracts. These are programmed to preform transactions, and cannot be interfered with. This means that Actum smart contracts are free from fraud and unexpected changes. With your own Actum token and smart contracts, you can create a rewards program, a cryptocurrency, a market, or anything else you can think of!</p>
+            <p class="lead">ActumCrypto is a blockchain and system of smart contracts. These are programmed to preform transactions, and cannot be interfered with. This means that Actum smart contracts are free from fraud and unexpected changes. With your own Actum token and smart contracts, you can create a rewards program, a cryptocurrency, a market, or anything else you can think of!</p>
             <p class="lead">A blockchain is free from downtime and slow regulatory processes, so Actum tokens transfer are fast and reliable. Actum apps can also use ActumCoin, the native cryptocurrency of Actum as a payment method.</p>
             <a class="btn btn btn-dark" href="./develop">Create your Actum app!</a>
         </div>
