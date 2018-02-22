@@ -1,5 +1,7 @@
+<img src="https://actumcrypto.org/svg/logo.svg">
+
 # Website
-Official Website of ActumCoin, live at [actumcrypto.org](http://actumcrypto.org)
+Official Website of ActumCoin, live at [actumcrypto.org](https://actumcrypto.org)
 
 ## Notes
 #### Found an error?
