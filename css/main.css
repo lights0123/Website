@@ -62,3 +62,12 @@
 .steps {
     margin-left: 1%;
 }
+
+.footer {
+    line-height: 80%;
+}
+
+.condensed {
+    margin-top: 0.05%;
+    margin-bottom: 0;
+}
