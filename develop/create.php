@@ -31,7 +31,7 @@
             </li>
         </ul>
         <div class="jumbotron jumbotron-fluid pad pad-top wid">
-            <img src="../logo.png">
+            <img src="../svg/logo.svg">
             <h1 class="display-4 bigger"><b>Create an Actum App</b></h1>
         </div>
         <div class="jumbotron jumbotron-fluid pad wid">
@@ -47,6 +47,10 @@
             <p class="lead steps">1. To accept ActumCoin payments, use our <a href="./docs#payments">payments API</a>, or to use smart contracts, use our <a href="./docs#contracts">smart contracts API</a>.</p>
             <p class="lead steps">2. If you accept ActumCoin payments, apply to get on our <a href="../vendors">list of vendors who accept ActumCoin</a> <a href="../apply/vendors">here</a>. This is optional, but may be good marketing.</p>
         </div>
+        <footer class="footer jumbotron jumbotron-fluid pad wid">
+            <p class="lead">Join our official <a href="http://reddit.com/r/actumcrypto">subreddit</a>!</p>
+            <p class="lead">Join our <a href="https://discord.gg/ybzTrHS">Discord server</a>!</p>
+        </footer>
         <!-- JQuery CDN -->
         <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
         <script>
