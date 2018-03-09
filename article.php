@@ -79,9 +79,9 @@ if (!isset($_GET['a']) || $_GET['a'] == "") {
 
         while ($row = mysqli_fetch_assoc($result2)) {
             ?>
-            <p class="lead condensed"><b><?= $row['name'] ?></b></p>
+            <p class="lead condensed"><b><?= htmlspecialchars($row['name']) ?></b></p>
             <small class="form-text text-muted condensed"><?= $row['date'] ?></small>
-            <p class="lead condensed pad-bottom"><?= $row['content'] ?></p>
+            <p class="lead condensed pad-bottom"><?= htmlspecialchars($row['content']) ?></p>
             <?php
         }
         ?>
