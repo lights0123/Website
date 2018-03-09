@@ -18,7 +18,8 @@ mysqli_query($link, $sql);
 leave();
 
 // leave function
-function leave() {
+function leave()
+{
     $referrer = $_SERVER['HTTP_REFERER'];
     header("Location: $referrer");
 }
