@@ -1,7 +1,7 @@
 <?php
 
 if (isset($_POST['submit'])) {
-    leave(false);
+    leave();
 }
 
 include "./db.php";
@@ -15,10 +15,10 @@ $sql = "INSERT INTO `comments` (`id`, `id_on`, `name`, `date`, `content`) VALUES
 mysqli_query($link, $sql);
 
 // leave
-leave(true);
+leave();
 
 // leave function
-function leave(bool $c) {
+function leave() {
     $referrer = $_SERVER['HTTP_REFERER'];
     header("Location: $referrer");
 }
