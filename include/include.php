@@ -6,19 +6,19 @@
  */
 function pageHeader($title = null)
 {
+	//HTTP2 Push
+    header('Link: </css/main.css>; rel=preload; as=style', false);
+    header('Link: </svg/nav.svg>; rel=preload; as=image', false);
+    header('Link: </logo.ico>; rel=preload; as=image', false);
     if ($title === null) $title = "ActumCrypto!";
     else $title = "ActumCrypto - " . $title;
 
-    /**
-     *
-     */
     $menu = [
         '/' => 'Home',
         '/faq' => 'FAQ',
         '/downloads' => 'Downloads',
         '/develop' => 'Develop an Actum App'
     ];
-
     $currentPage = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
     $currentPage = pathinfo($currentPage, PATHINFO_FILENAME); //Remove '.php' extension if included
     if ($currentPage === "/index") $currentPage = "/";
