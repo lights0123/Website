@@ -40,7 +40,6 @@ $result2 = mysqli_query($link, $sql2);
 <div class="jumbotron jumbotron-fluid pad wid">
 	<h2 class="display-5">Comments</h2>
     <?php
-
     if (mysqli_num_rows($result2) == 0) {
         ?>
 		<p class="lead">There are no comments yet.</p>
